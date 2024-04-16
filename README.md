@@ -4,7 +4,7 @@
 
 ### :man_technologist: About me:
 
-React developer &ensp;| &ensp;2 years of commercial experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> &ensp;
+React developer &ensp;| &ensp;3 years of commercial experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> &ensp;
 
 Contact me: [![Telegram Badge](https://img.shields.io/badge/-a1lexandrv-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/a1lexandrv) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:a1lexandrverin@gmail.com)
 
